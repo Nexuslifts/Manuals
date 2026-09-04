@@ -2,15 +2,31 @@
   "LOP": {
     "label": "LOP",
     "languages": {
-      "IT": { "label": "Italiano", "flag": "it", "file": "Pulsantiere/IT_Manuale_LOP65-85-100.pdf" },
-      "EN": { "label": "English", "flag": "en", "file": "Pulsantiere/EN_Manuale_LOP65-85-100.pdf" }
+      "IT": {
+        "label": "Italiano",
+        "flag": "it",
+        "file": "IT_Manuale_LOP65-85-100.pdf"
+      },
+      "EN": {
+        "label": "English",
+        "flag": "en",
+        "file": "EN_Manuale_LOP65-85-100.pdf"
+      }
     }
   },
   "COP": {
     "label": "COP",
     "languages": {
-      "IT": { "label": "Italiano", "flag": "it", "file": "Pulsantiere/IT_Manuale_COP200.pdf" },
-      "EN": { "label": "English", "flag": "en", "file": "Pulsantiere/EN_Manuale_COP200.pdf" }
+      "IT": {
+        "label": "Italiano",
+        "flag": "it",
+        "file": "IT_Manuale_COP200.pdf"
+      },
+      "EN": {
+        "label": "English",
+        "flag": "en",
+        "file": "EN_Manuale_COP200.pdf"
+      }
     }
   }
 }
